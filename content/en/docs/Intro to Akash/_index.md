@@ -57,8 +57,7 @@ Networking - allowing connectivity to and between workloads - can be configured 
 
 No. You can update your deployment. However, only some fields in the Akash stack definition file are mutable. The **image**, **command**, **args**, **env** and **exposed ports** can be modified, but compute resources and placement criteria cannot.
 
-Give your users next steps from the Overview. For example:
-
+## Next steps
 * [Getting Started](/docs/getting-started/): Get started with $project
 * [Examples](/docs/examples/): Check out some example code!
 

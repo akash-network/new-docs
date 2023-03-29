@@ -1,6 +1,7 @@
 ---
 categories: ["Getting Started"]
 tags: ["Support"]
+weight: 1
 title: "Technical Support"
 linkTitle: "Technical Support"
 date: 2023-03-29
