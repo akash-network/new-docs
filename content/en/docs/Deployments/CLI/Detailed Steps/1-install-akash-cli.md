@@ -9,8 +9,8 @@ date: 2023-03-29
 
 Select a tab below to view instructions for MacOS, Linux, or compiling from source.
 
-{{< tabpane text=true code=true highlight="sh" lang="sh" >}}
-{{% tab header="MacOS" lang="sh" persistLang=false %}}
+{{< tabpane text=true >}}
+{{% tab header="MacOS" %}}
 ### MacOS
 
 The simplest way to install Akash is using Homebrew using:
