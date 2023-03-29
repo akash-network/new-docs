@@ -197,12 +197,12 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://github.com/akash-network"
   icon = "fab fa-github"
-  desc = "Development takes place here!"
+  desc = "Github organization for Akash Network"
 [[params.links.developer]]
   name = "Discord"
-  url = "https://discord.com/invite/DxftX67"
+  url = ""
   icon = "fab fa-discord"
   desc = "Chat with other project developers"
 [[params.links.developer]]
