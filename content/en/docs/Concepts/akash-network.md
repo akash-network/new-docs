@@ -1,6 +1,7 @@
 ---
-title: "Intro to Akash"
-linkTitle: "Intro to Akash"
+title: "Akash Network"
+linkTitle: "Akash Network"
+weight: 2
 description: >-
   Akash means “open space” or “sky” in ancient Sanskrit. The sky is where the clouds meet.
 ---
@@ -59,4 +60,3 @@ No. You can update your deployment. However, only some fields in the Akash stack
 ## Next steps
 * [Getting Started](/docs/getting-started/): Get started with $project
 * [Examples](/docs/examples/): Check out some example code!
-

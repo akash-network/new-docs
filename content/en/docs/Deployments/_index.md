@@ -1,7 +1,6 @@
 ---
 title: "Deployments"
 linkTitle: "Deployments"
-weight: 3
 ---
 
 Applications can be deployed onto the Akash network using a platform that best suits your needs and preferences. Explore the following guides for your unique use case.

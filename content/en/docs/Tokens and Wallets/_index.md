@@ -1,7 +1,6 @@
 ---
 categories: ["Tokens and Wallets"]
 tags: []
-weight: 2
 simple_list: true
 title: "Tokens and Wallets"
 linkTitle: "Tokens and Wallets"
