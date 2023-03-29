@@ -23820,12 +23820,7 @@ body:lang(he) {
 body:lang(ar) {
   font-family: 'Tajawal', "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
-/*
-
-Nothing defined here. The Hugo project that uses this theme can override Bootstrap by adding a file to:
-
-assets/scss/_styles_project.scss
-
-*/
+.td-navbar .navbar-brand__name {
+  display: none; }
 
 /*# sourceMappingURL=main.css.map */

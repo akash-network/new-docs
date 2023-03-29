@@ -1,5 +1,5 @@
 ---
-title: "Environment Setup"
-linkTitle: "Environment Setup"
-weight: 1
+title: "Your First Deployment"
+linkTitle: "Your First Deployment"
+weight: 2
 ---

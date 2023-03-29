@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Akash Docs"
+title = "Official Documentation"
 
 # Language settings
 contentDir = "content/en"
@@ -60,22 +60,22 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Akash Docs"
-description = "A Docsy example site"
+title = "Official Documentation"
+description = "The Akash Network Official Documentation"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.no]
-title = "Akash Docs"
-description = "Docsy er operativsystem for skyen"
+title = "Official Documentation"
+description = "The Akash Network Official Documentation"
 languageName ="Norsk"
 contentDir = "content/no"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
 [languages.fa]
-title = "Akash Docs"
-description = "یک نمونه برای پوسته داکسی"
+title = "Official Documentation"
+description = "The Akash Network Official Documentation"
 languageName ="فارسی"
 contentDir = "content/fa"
 time_format_default = "2006.01.02"
