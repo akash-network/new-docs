@@ -1,7 +1,7 @@
 ---
 categories: ["Concepts"]
 tags: []
-weight: 2
+weight: 7
 title: "Stack Definition Language (SDL)"
 linkTitle: "Stack Definition Language"
 date: 2023-03-29
