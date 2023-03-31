@@ -1,7 +1,7 @@
 ---
 categories: ["Concepts"]
 tags: []
-weight: 5
+weight: 4
 title: "DESQ, GSEQ & OSEQ"
 linkTitle: "DESQ, GSEQ & OSEQ"
 date: 2023-03-30

@@ -1,7 +1,7 @@
 ---
 categories: ["Concepts"]
 tags: []
-weight: 4
+weight: 1
 title: "Bids & Leases"
 linkTitle: "Bids & Leases"
 date: 2023-03-30
