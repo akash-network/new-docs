@@ -2,12 +2,10 @@
 categories: ["Concepts"]
 tags: []
 weight: 1
-title: "Bids & Leases"
-linkTitle: "Bids & Leases"
+title: "IP Leases"
+linkTitle: "IP Leases"
 date: 2023-03-30
 ---
-
-## Bids
 
 ## IP Leases Features and Limitations
 
