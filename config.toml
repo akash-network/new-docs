@@ -98,7 +98,7 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "Quasarch"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
