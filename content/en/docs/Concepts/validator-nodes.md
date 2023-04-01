@@ -1,6 +1,6 @@
 ---
 categories: ["Concepts"]
-tags: []
+tags: ["Blockchain"]
 weight: 6
 title: "Validator Nodes"
 linkTitle: "Validator Nodes"
