@@ -1,0 +1,33 @@
+.td-navbar .navbar-brand__name {
+  display: none;
+}
+
+.td-navbar .navbar-brand svg {
+  width: 100%;
+}
+
+div.landing-box {
+  border: 1px solid #ddd;
+  display: table-cell;
+  padding: 16px;
+  border-radius: 4px;
+  margin: auto 8px;
+  height: 192px;
+  position: relative;
+
+  h5 {
+    font-weight: bold;
+  }
+
+  p {
+    color: #aaa
+  }
+
+  a.more {
+    font-weight: bold;
+    position: absolute;
+    bottom: 12px;
+    float: bottom;
+    color: black;
+  }
+}
